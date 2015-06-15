@@ -1,0 +1,16 @@
+d genSOEP
+d
+d text 
+d (see https://gitlab.soep.de/kwenzig/gensoep/wikis/home/) 
+d
+d Requires: Stata version 13 or newer
+d
+d Distribution-Date: 20150615
+d
+d Author: Knut Wenzig
+d Support: kwenzig@diw.de
+* 2015-06-15 first version
+
+
+f gs_check_stringcoding/gs_check_stringcoding.ado
+f genSOEP/gnugpl.sthlp
